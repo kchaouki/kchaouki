@@ -12,63 +12,17 @@
 
 ### 🧑‍💻 About me
 
+Full-Stack Java Developer and graduate of **UM6P–1337 Coding School**. I build scalable web applications with **Spring Boot** and modern frontend technologies, design RESTful APIs, work with relational databases and bring DevOps practices into deployment. I care about performance, maintainability and clean architecture, and I keep learning about system design, the cloud and software engineering best practices.
+
 - 🌍 Based in **Casablanca, Morocco**, open to new opportunities
 - 💼 **5+ years** building web apps, from the frontend to the backend
-- 🏥 Most recently at **FEKRA SYSTEMS**, where I worked on **SAHTY**, a national digital healthcare platform for the Mohammed VI Foundation for Health and Innovation, and on a **GMAO** system for hospital laboratory equipment
-- 🏆 Competitive programmer on CodinGame: **Legend League, #31 of 2,382** in the Winter Challenge 2026
-- 🧠 Currently learning **advanced C++**
 - 📄 [Download my resume](https://kchaouki.com/assets/resume-en.pdf)
 
 ---
 
-### 🛠️ Tech stack
+### 🛠️ Technologies & tools
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css&theme=dark" />
-
-**Frameworks & libraries**<br/>
-<img src="https://skillicons.dev/icons?i=spring,angular&theme=dark" />
-&nbsp; Spring Boot · Vaadin · Angular · JUnit 5 · Mockito · Chart.js
-
-**Databases & caching**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
-&nbsp; PostgreSQL · SQL Server · Redis
-
-**DevOps & infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,tomcat,maven,githubactions,linux&theme=dark" />
-&nbsp; Docker · Kubernetes · K3s/K3d · Vagrant · Nginx · GitHub Actions
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,jira&theme=dark" />
-
----
-
-### 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎬 [**Filmexa**](https://kchaouki.com/projects/filmexa/) | Movie discovery and streaming platform with torrent downloads, adaptive HLS playback and on-the-fly FFmpeg transcoding | Angular · TypeScript · Spring Boot |
-| ☸️ [**Inception of Things**](https://kchaouki.com/projects/inception-of-things/) | Hands-on Kubernetes setup with K3s, K3d, Vagrant, Argo CD and Nginx ingress | Kubernetes · K3s · Vagrant |
-| 🐳 [**Inception**](https://kchaouki.com/projects/inception/) | Docker-based environment for consistent, maintainable deployments | Docker · Compose · Nginx |
-| 🌐 [**Webserv**](https://kchaouki.com/projects/webserv/) | HTTP server built as a team, serving pages and files over sockets | C++ · HTTP · Networking |
-| 🐚 [**Minishell**](https://kchaouki.com/projects/minishell/) | Compact Unix shell with Bash-inspired behavior | C · Unix · Processes |
-| 🍝 [**Philosophers**](https://kchaouki.com/projects/philosophers/) | Concurrency simulation that avoids deadlock and starvation | C · Threads · Mutexes |
-| 🗺️ [**FdF**](https://kchaouki.com/projects/fdf/) | Interactive 3D wireframe renderer for height maps | C · MiniLibX |
-
----
-
-### 🏆 CodinGame highlights
-
-| Challenge | Result |
-|---|---|
-| Winter Challenge 2026 | 🥇 **Legend League**, #31 / 2,382 |
-| Spring Challenge 2025 | #65 / 2,864 |
-| Fall Challenge 2023 | Gold League, #69 / 4,669 |
-| Fall Challenge 2024 | #167 / 3,970 |
-| Summer Challenge 2024 | Gold League, #189 / 5,237 |
-
-<a href="https://www.codingame.com/profile/8690c5f00b0960948f9c1faf6761a1692837283"><img src="https://img.shields.io/badge/CodinGame-Profile-f2bb13?style=for-the-badge&logo=codingame&logoColor=white&labelColor=1c1917" /></a>
-<a href="https://leetcode.com/u/pfJb2v1KMB/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1c1917" /></a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,spring,angular,postgres,redis,docker,kubernetes,nginx,tomcat,maven,githubactions,linux,git,github,postman,jira&theme=dark" />
 
 ---
 
