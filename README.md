@@ -14,15 +14,11 @@
 
 Full-Stack Java Developer and graduate of **UM6P–1337 Coding School**. I build scalable web applications with **Spring Boot** and modern frontend technologies, design RESTful APIs, work with relational databases and bring DevOps practices into deployment. I care about performance, maintainability and clean architecture, and I keep learning about system design, the cloud and software engineering best practices.
 
-- 🌍 Based in **Casablanca, Morocco**, open to new opportunities
-- 💼 **5+ years** building web apps, from the frontend to the backend
-- 📄 [Download my resume](https://kchaouki.com/assets/resume-en.pdf)
-
 ---
 
 ### 🛠️ Technologies & tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,spring,angular,postgres,redis,docker,kubernetes,nginx,tomcat,maven,githubactions,linux,git,github,postman,jira&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python,html,css,spring,angular,postgres,redis,docker,kubernetes,nginx,maven,githubactions,linux,git,github,postman,jira&theme=dark" />
 
 ---
 
