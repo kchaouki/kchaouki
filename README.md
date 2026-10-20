@@ -9,8 +9,8 @@ Technology Enthusiast, full-stack developer
 * 🧠  I'm learning Advanced C++ Programming
 
   
-<a href="https://www.github.com/karimch-50" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/karimch-50?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/kchaouki" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kchaouki?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
   
   
@@ -28,13 +28,13 @@ src="https://img.shields.io/github/followers/karimch-50?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/karim ch#1375" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/karimch-50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karim-chaouki-25359a173/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KarimChaouki50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/karim ch#1375" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/kchaouki" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/karim-chaouki-25359a173/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KarimChaouki50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kchaouki"><img src="https://github-readme-stats.vercel.app/api?username=karimch-50&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kchaouki's GitHub stats" /></a>
+<a href="http://www.github.com/kchaouki"><img src="https://github-readme-stats.vercel.app/api?username=kchaouki&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kchaouki's GitHub stats" /></a>
 
 ### Support Me
 
